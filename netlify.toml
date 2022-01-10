@@ -4,6 +4,7 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
 [[redirects]]
   from = "https://loregg.netlify.app/join"
   to = "https://discord.gg/FJGNFZpMmt"
